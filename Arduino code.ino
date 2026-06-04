@@ -13,8 +13,8 @@
 #define MAX_PWM         255
 
 // --- WiFi Settings ---
-const char* ssid = "Dialog 4G 464";        //Router name  "Dialog 4G 128"
-const char* password = "5c3e74e1"; // Password
+const char* ssid = "ROUTER NAME";  //Router name
+const char* password = "PASSWORD"; // Password
 const int port = 8080;
 
 WiFiServer server(port);
